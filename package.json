@@ -1,0 +1,13 @@
+{
+  "name": "resume-api",
+  "version": "1.0.0",
+  "description": "Resume API using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "content-type": "^1.0.5"
+  }
+}
